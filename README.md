@@ -7,3 +7,6 @@ The following is the steps to test this database:
 3) After the table is created successfully we can check the content using :
    select * from table_name;
    
+   ![Screenshot (15)](https://user-images.githubusercontent.com/107358756/218826059-aba43276-ab1d-4873-9327-3a4e472f11d3.png)
+
+   
