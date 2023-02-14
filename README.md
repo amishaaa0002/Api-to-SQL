@@ -1,6 +1,7 @@
 # Api-to-SQL
 This is  a database created using MYSQL and Node.js which reads data from an API of public source and puts it into sql database.
 The following is the steps to test this database:
+Api used: https://jsonplaceholder.typicode.com/users
 1) first the database is created and used by the command :
    use database db_name; // where db_name is the name of our database
 2) After the database we create a table with the attributes according to the api used.
